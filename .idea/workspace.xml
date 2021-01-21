@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a7471f6-a812-45c2-8a95-eedf8c9b0e2e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basic_Learning/6.流程控制语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basic_Learning/7.数据序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basic_Learning/8.推导式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basic_Learning/PDF/10.条件语句.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basic_Learning/PDF/11-字符串.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basic_Learning/PDF/12-列表.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basic_Learning/PDF/13-元组.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basic_Learning/PDF/14-字典.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basic_Learning/PDF/15-集合.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basic_Learning/PDF/16-公共操作.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basic_Learning/PDF/17-推导式.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Basic_Learning/2.print输出.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Basic_Learning/2.print输出.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Basic_Learning/3.输入.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Basic_Learning/3.输入.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Basic_Learning/4.转换数据类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Basic_Learning/4.转换数据类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Basic_Learning/5.运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Basic_Learning/5.运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Basic_Learning/MD/01-Python简介.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,11 +59,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Basic_Learning/5.运算符.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
               <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Basic_Learning/6.流程控制语句.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Basic_Learning/7.数据序列.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-330">
+              <caret line="298" column="20" selection-start-line="298" selection-start-column="20" selection-end-line="298" selection-end-column="20" />
+              <folding>
+                <element signature="e#66#496#0" />
+                <element signature="e#427#3079#0" />
+                <element signature="e#3248#4859#0" />
+                <element signature="e#4940#5626#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_Basic_Learning/8.推导式.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -82,6 +120,10 @@
         <option value="$PROJECT_DIR$/Python_Basic_Learning/3.输入.py" />
         <option value="$PROJECT_DIR$/Python_Basic_Learning/4.转换数据类型.py" />
         <option value="$PROJECT_DIR$/Python_Basic_Learning/5.运算符.py" />
+        <option value="$PROJECT_DIR$/Python_Basic_Learning/6.流程控制语句.py" />
+        <option value="$PROJECT_DIR$/Python_Basic_Learning/PDF/7.数据序列.py" />
+        <option value="$PROJECT_DIR$/Python_Basic_Learning/7.数据序列.py" />
+        <option value="$PROJECT_DIR$/Python_Basic_Learning/8.推导式.py" />
       </list>
     </option>
   </component>
@@ -112,12 +154,6 @@
               <item name="Python-practice" type="462c0819:PsiDirectoryNode" />
               <item name="Python_Basic_Learning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Basic_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="PDF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -134,6 +170,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Python-practice\Python_Basic_Learning" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Python-practice\Python_Basic_Learning\PDF" />
       <recent name="G:\Python-practice\Python_Basic_Learning\MD" />
@@ -152,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5.运算符">
+  <component name="RunManager" selected="Python.8.推导式">
     <configuration name="2.print输出" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,8 +258,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="7.数据序列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Basic_Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Basic_Learning/7.数据序列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8.推导式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Basic_Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Basic_Learning/8.推导式.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8.推导式" />
+        <item itemvalue="Python.7.数据序列" />
         <item itemvalue="Python.5.运算符" />
         <item itemvalue="Python.3.输入" />
         <item itemvalue="Python.2.print输出" />
@@ -237,15 +322,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611213429980</updated>
-      <workItem from="1611213452756" duration="2468000" />
+      <workItem from="1611213452756" duration="4825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2468000" />
+    <option name="totallyTimeSpent" value="4825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -274,6 +360,8 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_practice$8_.coverage" NAME="8.推导式 Coverage Results" MODIFIED="1611219841070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic_Learning" />
+    <SUITE FILE_PATH="coverage/Python_practice$7_.coverage" NAME="7.数据序列 Coverage Results" MODIFIED="1611219392483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic_Learning" />
     <SUITE FILE_PATH="coverage/Python_practice$2_print.coverage" NAME="2.print输出 Coverage Results" MODIFIED="1611214137167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic_Learning" />
     <SUITE FILE_PATH="coverage/Python_practice$3_.coverage" NAME="3.输入 Coverage Results" MODIFIED="1611215071144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic_Learning" />
     <SUITE FILE_PATH="coverage/Python_practice$5_.coverage" NAME="5.运算符 Coverage Results" MODIFIED="1611215074850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic_Learning" />
@@ -321,6 +409,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Basic_Learning/6.流程控制语句.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Basic_Learning/7.数据序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="298" column="20" selection-start-line="298" selection-start-column="20" selection-end-line="298" selection-end-column="20" />
+          <folding>
+            <element signature="e#66#496#0" />
+            <element signature="e#427#3079#0" />
+            <element signature="e#3248#4859#0" />
+            <element signature="e#4940#5626#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Basic_Learning/8.推导式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
